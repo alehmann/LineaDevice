@@ -1,0 +1,22 @@
+{
+  "name": "ScannerLib-Linea",
+  "version": "0.0.1",
+  "description": "Linea Device plugin for phonegap",
+  "cordova": {
+    "id": "com.allada.phonegap.webinterface",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "Scanner",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0"
+    }
+  ],
+  "author": "Nathan Bruer"
+}
